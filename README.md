@@ -26,11 +26,11 @@
 
 ## Database設計
 ### ERD:EntityRelashionshipDiagram
-https://i.gyazo.com/63c291fe4eb1ed7b8a2d4e2d220b755e.png
+<img width="674" alt="スクリーンショット 2022-03-30 18 59 30" src="https://user-images.githubusercontent.com/91854417/161431423-beaeb90c-1270-46c9-a6f4-ff1399ae0fdd.png">
 
 
 ## ログイン画像
-https://gyazo.com/4cec6d4868c3795888b6c45fb3a48dfc
+![4cec6d4868c3795888b6c45fb3a48dfc](https://user-images.githubusercontent.com/91854417/161431525-bf6c75ff-f8a2-4e41-be65-2971af14105d.gif)
 
 ### License
 [MIT]https://github.com/KunNishii/ShortcutKeyboard/blob/main/LICENSE
