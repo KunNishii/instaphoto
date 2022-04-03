@@ -32,3 +32,5 @@ https://i.gyazo.com/63c291fe4eb1ed7b8a2d4e2d220b755e.png
 ## ログイン画像
 https://gyazo.com/4cec6d4868c3795888b6c45fb3a48dfc
 
+### License
+[MIT]https://github.com/KunNishii/ShortcutKeyboard/blob/main/LICENSE
