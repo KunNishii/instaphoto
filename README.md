@@ -1,24 +1,34 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## title
+### instaphoto
 
-Things you may want to cover:
+## アプリケーション概要
+### 写真投稿アプリ。
+### ユーザーの新規登録、写真投稿・削除が可能。
 
-* Ruby version
 
-* System dependencies
+## 説明/利用方法
+* ユーザー登録機能を行い、写真の投稿、削除が可能です。
+* 投稿へのいいね、ユーザーのフォローが可能です。
 
-* Configuration
+### URL
 
-* Database creation
 
-* Database initialization
+## 投稿アカウント
+* email:a@a
+* pass:111111
 
-* How to run the test suite
+## 開発環境
+* Ruby 2.6.5
+* Ruby on Rails 6.0.6
+* mysql2
 
-* Services (job queues, cache servers, search engines, etc.)
+## Database設計
+### ERD:EntityRelashionshipDiagram
+https://i.gyazo.com/63c291fe4eb1ed7b8a2d4e2d220b755e.png
 
-* Deployment instructions
 
-* ...
+## ログイン画像
+https://gyazo.com/4cec6d4868c3795888b6c45fb3a48dfc
+
